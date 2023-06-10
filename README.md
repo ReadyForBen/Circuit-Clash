@@ -1,6 +1,6 @@
 # Circuit Clash Games
 
-![Circuit Clash Games Logo](logo.png)
+![Circuit Clash Games Logo](https://i.imgur.com/GexP3XB.png)
 
 Welcome to Circuit Clash Games! We are an independent game development studio committed to crafting captivating and immersive gaming experiences. This repository serves as a central hub for our various game projects, showcasing our creativity and expertise in the gaming industry.
 
